@@ -1,0 +1,61 @@
+# Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+
+# Android generated files
+android/.gradle/
+android/build/
+android/app/build/
+android/app/src/debug/
+android/app/src/profile/
+
+# iOS generated files
+ios/Flutter/
+ios/DerivedData/
+ios/Pods/
+ios/.symlinks/
+ios/Frameworks/
+
+# Web generated files
+web/build/
+
+# macOS generated files
+macos/Flutter/ephemeral/
+macos/DerivedData/
+
+# Linux generated files
+linux/flutter/
+
+# Windows generated files
+windows/flutter/
+
+# IntelliJ related files
+.idea/
+*.iml
+
+# VS Code related files
+.vscode/
+
+# Android Studio related files
+.DS_Store
+local.properties
+*.keystore
+*.jks
+
+# Build artifacts
+build/
+doc/
+
+# Packages pubspec lock file
+*.packages
+
+# Generated files
+**/generated_plugin_registrant.dart
+
+# Crash reports
+crash_reports/
+
+# Other
+*.log
